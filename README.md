@@ -3,7 +3,7 @@ Jak to będzie działać?
 Można używać API bez logowanie się ale tylko 1 filmik na godzine
 Użytkownik który jest zalogowany może 10 na godzine
 Wchodząc na stronę użytkownik ma wybór do zalogowania się aby sprawdzić swoją historie pobrań, zmiany hasła/emailu oraz sprawdzenia limitu api.
-
+xd
 Funkcje:
 
 - Zmiana Hasła
